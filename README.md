@@ -1,15 +1,27 @@
-# Byte-Bank
-<p>A ideia do projeto é fazer um Banco Digital que realiza transferências, usando Angular
-O ByteBank(nome do projeto e banco),realiza transferências de valores para um destino que o usuário colocar.
-Os principais conhecimentos desse projeto foi:<p/>
+# ByteBank
 
--Utilizar os recursos do framework para fazer diversas funcionalidades do projeto;<br>
--Criação de componentes Angular;<br>
--Transmitir informações entre componentes;<br>
--Integrar dados com API’s REST;<br>
--Transformar componentes em páginas.<br>
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.4.
 
-![ByteBank 01](https://user-images.githubusercontent.com/83931417/133685553-9ebb4e35-93c8-45a0-aac1-a0093d4be281.png)
-![ByteBank 02](https://user-images.githubusercontent.com/83931417/133685557-423cc31e-41a4-4c77-b4cc-5c6b1d3c321b.png)
-![ByteBank 03](https://user-images.githubusercontent.com/83931417/133685560-0bfbae04-2897-4ba3-9ede-18c2ec84e11b.png)
+## Development server
 
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
